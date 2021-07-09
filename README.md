@@ -16,3 +16,6 @@ See code. Changes:
 - added two additional conditions for extra loud and super-extra loud (I have kids) where I have 2 variations of strobe lights. 
 - Adjusted the sensitivity, so that a little loud (talking in a normal voice) wasn't enough to set it off.
 - moved the last delay into the last else condition, we don't need to double up on the delay, it just causes lags. 
+
+
+Finally here's a link to a video about it in use and how we made it... not detailed, just fun. https://youtu.be/z_fMl4feXEc
